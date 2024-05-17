@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Play.Catalog.Contracts</Title>
+    <Description>Contracts for interactions with Catalog.Service</Description>
+  </PropertyGroup>
+
+</Project>
